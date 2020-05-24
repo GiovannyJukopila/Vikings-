@@ -1,0 +1,24 @@
+
+.jumbotron {
+  background-image: url('./Destro.jpeg');
+  margin-top: 10px∫;
+  color:rgba(255, 187, 0, 0.801);
+  background-size: cover;
+}
+.Article {
+  background-color: blue;
+}
+.carousel {
+  width: center;
+  background:black;
+}
+.slide {
+  max-width: none;  /*important */
+  min-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  background-color:rgb(255, 187, 0.801);
+
+}
+
